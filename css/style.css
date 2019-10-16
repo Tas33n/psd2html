@@ -211,17 +211,18 @@ body{
     margin-top: 30px;
     padding-right: 80px;
     max-width: 190px;
-     color: #7e8287;
 }
 
 .service-items h1{
     font-size: 16px;
     padding: 20px 0px;
+     color: #7e8287;
 }
 
 .service-items p{
     font-size: 11px;
     line-height: 21px;
+     color: #7e8287;
 }
 
 .service-items i{
