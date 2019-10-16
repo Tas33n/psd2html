@@ -199,7 +199,7 @@ body{
     background: url(../images/service-bg.jpg);
     background-position: center;
     background-size: cover;
-    color: #7e8287;
+   
 }
 
 .services-left{
@@ -211,6 +211,7 @@ body{
     margin-top: 30px;
     padding-right: 80px;
     max-width: 190px;
+     color: #7e8287;
 }
 
 .service-items h1{
