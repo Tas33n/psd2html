@@ -199,6 +199,7 @@ body{
     background: url(../images/service-bg.jpg);
     background-position: center;
     background-size: cover;
+    color: #7e8287;
 }
 
 .services-left{
@@ -348,6 +349,7 @@ body{
 .button button{
     color: #0b1016;
     border-radius: 3px;
+    border: none;
     text-transform: uppercase;
     font-size: 14px;
     font-weight: 800;
